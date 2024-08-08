@@ -1,12 +1,12 @@
 ## Bem vinda ao meu perfil 💜
 
-meu nome é Ana Clara M. Pereira 
+Meu nome é Ana Clara M. Pereira 
 
-Sou estudante do Ensino Medio da escola Eduardo Velho Filho 
+Sou estudante do Ensino Medio da escola Eduardo Velho Filho, e vou apresentar trabalhos da minha turma de itinerairo de exata 
 
-aluno da Alura e vou utilizar esse espaço para compartilhar meus projetos 
+ sou Aluno da Alura e vou utilizar esse espaço para compartilhar meus projetos
 
-## Para entrar em contato
+## Para entrar em contatom 📫
 0001092829441sp@al.educacao.sp.gov.br
 
 <!--
