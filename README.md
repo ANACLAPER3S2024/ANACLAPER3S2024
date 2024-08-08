@@ -1,4 +1,13 @@
-## Hi there 👋
+## Bem vinda ao meu perfil 💜
+
+meu nome é Ana Clara M. Pereira 
+
+Sou estudante do Ensino Medio da escola Eduardo Velho Filho 
+
+aluno da Alura e vou utilizar esse espaço para compartilhar meus projetos 
+
+## Para entrar em contato
+0001092829441sp@al.educacao.sp.gov.br
 
 <!--
 **ANACLAPER3S2024/ANACLAPER3S2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
